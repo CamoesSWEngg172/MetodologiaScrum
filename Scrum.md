@@ -4,6 +4,9 @@ Aplicação de Métricas de Software com Scrum
 Alunos: Jeymmison Alves e Matheus Enriqui Lazario
 Faculdades Integradas Camões  – Curitiba – PR – Brasil
  jeymmison.alves@biometrix.com.br, matheus.lazario@vetore.com
+ 
+ 
+ 
 Abstract. This paper presents a summary of the article Software Metrics application with Scrum , with the techniques used , the case study , the application of metrics , analysis of the results the conclusion of the study and the interpretation of the staff in relation to Article studied.
 Keywords: Software metrics, scrum, function point analysis, ideal day, planning poker.
 Resumo. Este trabalho apresenta a um resumo do artigo Aplicação de Métricas de Software com Scrum, apresentando as técnicas utilizadas, o estudo de caso, a aplicação de métricas, as análises dos resultados a conclusão do estudo, bem como a interpretação da equipe em relação ao artigo estudado. 
